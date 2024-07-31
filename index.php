@@ -5,6 +5,6 @@
     </head>
     <body>
         <?php echo '<p>Hello World</p>'; ?>
-        <?php echo '<p>version 1.01</p>'; ?>
+        <?php echo '<p>version 1.02</p>'; ?>
     </body>
 </html>
